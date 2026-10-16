@@ -26,7 +26,7 @@ fetch_abs_playlist = _ns['fetch_abs_playlist']
 CHANNELS = _ns['CHANNELS']
 
 OUT = os.path.dirname(os.path.abspath(__file__))
-PAGES_BASE = 'https://petem379-cmd.github.io/ysp'
+PAGES_BASE = 'https://dicosboy.github.io/ysp'
 
 class C:
     pass
